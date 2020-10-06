@@ -1,1 +1,23 @@
-
+{
+  "wallpapers": [
+    {
+      "author": "Jared Rice",
+      "url": "https://raw.githubusercontent.com/PixelVibe/Zen-Wallpapers/main/Meditation.jpg",
+      "name": "Meditation",
+      "thumbnail": "https://raw.githubusercontent.com/PixelVibe/Zen-Wallpapers/main/Meditation.jpg"
+    },
+    
+    {
+      "author": "Moodywalk",
+      "url": "https://raw.githubusercontent.com/PixelVibe/Zen-Wallpapers/main/Buddha.jpg",
+      "name": "Buddha",
+      "thumbnail": "https://raw.githubusercontent.com/PixelVibe/Zen-Wallpapers/main/Buddha.jpg"
+    },
+    {
+      "author": "Aman Upadhyay",
+      "url": "https://raw.githubusercontent.com/PixelVibe/Zen-Wallpapers/main/Temple%20Bell.jpg",
+      "name": "Temple Bell",
+      "thumbnail": "https://raw.githubusercontent.com/PixelVibe/Zen-Wallpapers/main/Temple%20Bell.jpg"
+    }
+  ]
+}
